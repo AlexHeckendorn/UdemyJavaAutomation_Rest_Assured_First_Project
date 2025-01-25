@@ -20,6 +20,10 @@ dependencies {
             "io.rest-assured:json-schema-validator:5.5.0"
     )
 
+    implementation(
+           "org.junit.jupiter:junit-jupiter-params:5.11.4"
+
+    )
 }
 
 
